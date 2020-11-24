@@ -1,0 +1,91 @@
+	body{
+		background-color: #f4f4f2;
+    color: rgb(84 78 78) ;
+		font-family: arial;serif;   
+		font-size: 16px;
+		text-justify : center; 
+	}
+
+h1 {
+	color: rgb(163 144 199) ;
+	font-family: 'Caveat', cursive;
+font-weight:bold;
+font-size: 40px;
+}
+
+h2 {
+	color: rgb(163 144 199) ;
+font-size: 13
+font-weight: 600px;
+font-weight:bold;	
+}
+a:hover { 
+	color: black ;
+ }
+
+
+ /* Custom design with class */
+
+
+.container {
+	width:800PX;
+	margin :40PX auto;
+
+	 }
+
+	 .card-white {
+	 	background-color: white;
+	 	padding: 40px ;
+	 	box-shadow: 10px 10px 30px rgba(0,0,0,0.1);
+	 	border-radius: 4PX;
+	 	margin: 20PX 0px; 
+	 	text-align : middle;
+	 	
+	 	}
+
+	 	.card-white2 {
+	 	background-color: white;
+	 	padding: 40px ;
+	 	box-shadow: 10px 10px 30px rgba(0,0,0,0.1);
+	 	border-radius: 4PX;
+	 	margin: 20PX 0px; 
+	 	text-align : center;
+	 	
+	 	}
+
+	 	.card-white2{
+	 		text-align: center;
+
+	 		
+	 	}
+	 	.img-circle {
+	 		border-radius: 50%
+	 		}
+	 		.btn-blue {
+	 			background-color: black ;
+	 			color: #f4f4f2;
+	 			padding: 15px 20px;
+	 			border-radius:10PX;
+}
+.btn-blue:hover {
+	background-color: blue;
+	color: rgb yellow ; 
+}
+
+.list-inline {
+	list-style: :none;
+padding-left: 0px;	
+}
+
+.list-inline {
+	display: inline;
+	padding: 10PX
+}
+
+#introduction p {
+margin-bottom: 40px
+}
+
+
+
+
